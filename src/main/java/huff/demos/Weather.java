@@ -1,13 +1,23 @@
 package huff.demos;
 
 /**
- * Hello world!
+ * This is an example application showing how to build a greenfield project.
  *
  */
 public class Weather 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	/*
+    	 * Make the API call
+    	 */
+    	
+    	/*
+    	 * Parse the JSON
+    	 */
+    	
+    	/*
+    	 * Display the output
+    	 */
     }
 }
